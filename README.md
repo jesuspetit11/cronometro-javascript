@@ -1,2 +1,2 @@
 # Proyecto cronómetro en JavaScript
->Proyecto de un cronómetro funcional hecho con **HTML**, **SCSS** y **JavaScript** puro.
+>Proyecto de un cronómetro funcional hecho con **HTML**, **SASS** y **JavaScript** puro.
